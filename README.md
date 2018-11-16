@@ -1,1 +1,1 @@
-# DS-theory
+# Data-Structures-using-C-
